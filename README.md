@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Имя пользователя GitHub/Наз�
 https://raw.githubusercontent.com/Y0ungM0rris/flutter_page/main/README.md
 ```
 * Код парсера можно взять ниже или по ссылке указанной в примере: 
-```
+```dart
 var link = Uri.tryParse('ссылка на документ');
 
 FutureBuilder<http.Response>
