@@ -3,7 +3,7 @@
 #### __Создание репозитория__
 * Создаём стандартный, публичный репозиторий в GitHub
 
-#### **Подготовка проекта**
+#### __Подготовка проекта__
 * Находясь в корне проекта открываем терминал и вызываем команду flutter build web
 * Переходим в директорию /build/web/
 * В файле index.html находим строчку <base href="/"> и меняем href="/" на название репозитория GitHub (Пример href="/flutter_page/")
@@ -23,7 +23,7 @@
 ```
 https://raw.githubusercontent.com/Имя пользователя GitHub/Название репозитория/Название ветки/Название файла
 ```
-Пример:
+__Пример:__
 ```
 https://raw.githubusercontent.com/Y0ungM0rris/flutter_page/main/README.md
 ```
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/Y0ungM0rris/flutter_page/main/README.md
 ```
 https://ссылка на развёрнутую docsify страницу/README.md
 ```
-Пример:
+__Пример:__
 ```
 https://y0ungm0rris.github.io/docsify_page/README.md
 ```
