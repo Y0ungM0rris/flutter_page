@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/Имя пользователя GitHub/Наз�
 https://raw.githubusercontent.com/Y0ungM0rris/flutter_page/main/README.md
 ```
 #### __Парсинг с Docsify__
-* Создать и развурнуть страницу docsify по [инструкции](https://y0ungm0rris.github.io/docsify_page/#/)
+* Создать и развурнуть страницу docsify по [инструкции](https://y0ungm0rris.github.io/docsify_page/#/) (https://y0ungm0rris.github.io/docsify_page/#/)
 * __Важно!__ Для удачного парсинга ссылка на файл должна иметь вид:
 ```
 https://ссылка на развёрнутую docsify страницу/README.md
