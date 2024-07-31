@@ -23,7 +23,7 @@
 ```
 https://raw.githubusercontent.com/Имя пользователя GitHub/Название репозитория/Название ветки/Название файла
 ```
-* Пример:
+Пример:
 ```
 https://raw.githubusercontent.com/Y0ungM0rris/flutter_page/main/README.md
 ```
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/Y0ungM0rris/flutter_page/main/README.md
 ```
 https://ссылка на развёрнутую docsify страницу/README.md
 ```
-* Пример:
+Пример:
 ```
 https://y0ungm0rris.github.io/docsify_page/README.md
 ```
